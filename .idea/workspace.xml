@@ -11,21 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d65c60-0b33-440a-8233-d964ef6c5537" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaravelCollectiveRemote-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/remote.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConnectionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Console/TailCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GatewayInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiConnection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoteFacade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoteManager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecLibGateway.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597913309245</updated>
-      <workItem from="1597913310430" duration="208000" />
+      <workItem from="1597913310430" duration="343000" />
     </task>
     <servers />
   </component>
